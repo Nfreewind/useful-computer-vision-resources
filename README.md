@@ -32,4 +32,5 @@
 
 #### Tutorials
 + <a href="http://opencv-code.com/" target="_blank">OpenCV Code </a> - Tutorials and ideas for building computer vision apps with the OpenCV library
++ <a href="http://opencv-srf.blogspot.com/" target="_blank">OpenCV Tutorial  </a> - in C++
 
